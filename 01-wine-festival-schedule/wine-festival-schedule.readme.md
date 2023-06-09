@@ -2,8 +2,10 @@
 
 ## Table of contents
 
-- [Concepts](#concepts-to-review-for-this-project)
-- [Learning goal](#learning-goal)
+- [✅ Project completed](#project-completed-repo)
+- [⌛️ Project starter](#project-starter-repo)
+- [🧩 Concepts](#concepts-to-review-for-this-project)
+- [🎯 Learning goal](#learning-goal)
 - [💻 Application Overview](#overview)
   - [📸Screenshot](#screenshot)
   - [🥷🏽 The challenge](#the-challenge)
@@ -12,8 +14,14 @@
 - [📕 What I learned](#what-i-learned)
 - [⏭️ Continued development](#continued-development)
 - [📚 Useful resources](#useful-resources)
-- [Project completed](/Projects/01-HTML-CSS/01-html/01-wine-festival-schedule/completed/)
-- [Project starter](/Projects/01-HTML-CSS/01-html/01-wine-festival-schedule/starter/)
+
+## Project completed repo
+
+- check out the code here `->` [completed](https://github.com/hermkan/code-journey-html/tree/main/01-wine-festival-schedule/completed)
+
+## Project starter repo
+
+- check out the code here `->` [starter](https://github.com/hermkan/code-journey-html/tree/main/01-wine-festival-schedule/starter)
 
 ## Concepts to review for this project
 
@@ -49,7 +57,3 @@ The challenge is to build out this table and get it looking as close to the desi
 #### Continued development
 
 #### Useful resources
-
-## Try it
-
-- The starter folder is here `->` [Starter](/projects/01-HTML-CSS/02-wine-festival-schedule/starter/)
