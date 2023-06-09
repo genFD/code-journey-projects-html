@@ -35,7 +35,7 @@
 
 ### Screenshot
 
-![Design preview for wine festival schedule](/projects/01-HTML-CSS/02-wine-festival-schedule/Wine-Festival-Schedule.png)
+![Design preview for wine festival schedule](./Wine-Festival-Schedule.png)
 
 ### The challenge
 
@@ -43,7 +43,7 @@ The challenge is to build out this table and get it looking as close to the desi
 
 ### Links
 
-- Live Site URL: [Table HTML](https://table-html-journey-code.vercel.app/)
+- Live Site URL: [Table HTML](https://code-journey-html-table.vercel.app/)
 
 ## My process
 
