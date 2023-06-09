@@ -2,8 +2,10 @@
 
 ## Table of contents
 
-- [Concepts](#concepts-to-review-for-this-project)
-- [Learning goal](#learning-goal)
+- [✅ Project completed](#project-completed-repo)
+- [⌛️ Project starter](#project-starter-repo)
+- [🧩 Concepts](#concepts-to-review-for-this-project)
+- [🎯 Learning goal](#learning-goal)
 - [💻 Application Overview](#overview)
   - [📸Screenshot](#screenshot)
   - [🥷🏽 The challenge](#the-challenge)
@@ -20,6 +22,14 @@
 - [⏭️ Continued development](#continued-development)
 - [📚 Useful resources](#useful-resources)
 
+## Project completed repo
+
+- check out the code here `->` [completed](https://github.com/hermkan/code-journey-html/tree/main/03-new-york-city-blog/completed)
+
+## Project starter repo
+
+- check out the code here `->` [starter](https://github.com/hermkan/code-journey-html/tree/main/03-new-york-city-blog/starter)
+
 ## Concepts to review for this project
 
 ## Learning Goal
@@ -30,7 +40,7 @@
 
 ### Screenshot
 
-![Design preview for OMNIFOOD](/projects/01-HTML-CSS/04-new-york-city-blog/nyc-blog.png)
+![Design preview for NYC Blog](./nyc-blog.png)
 
 ### The challenge
 
@@ -39,7 +49,7 @@ Some styling was added to the page in `style.css`
 
 ### Links
 
-- Live Site URL: [NYC BLOG](https://journey-code-semantic-html.vercel.app/)
+- Live Site URL: [NYC BLOG](https://code-journey-html-semantic-html.vercel.app/)
 
 ## My process
 

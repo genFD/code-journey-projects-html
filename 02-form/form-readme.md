@@ -2,8 +2,10 @@
 
 ## Table of contents
 
-- [Concepts](#concepts-to-review-for-this-project)
-- [Learning goal](#learning-goal)
+- [✅ Project completed](#project-completed-repo)
+- [⌛️ Project starter](#project-starter-repo)
+- [🧩 Concepts](#concepts-to-review-for-this-project)
+- [🎯 Learning goal](#learning-goal)
 - [💻 Application Overview](#overview)
   - [📸Screenshot](#screenshot)
   - [🥷🏽 The challenge](#the-challenge)
@@ -12,6 +14,14 @@
 - [📕 What I learned](#what-i-learned)
 - [⏭️ Continued development](#continued-development)
 - [📚 Useful resources](#useful-resources)
+
+## Project completed repo
+
+- check out the code here `->` [completed](https://github.com/hermkan/code-journey-html/tree/main/02-form/completed)
+
+## Project starter repo
+
+- check out the code here `->` [starter](https://github.com/hermkan/code-journey-html/tree/main/02-form/starter)
 
 ## Concepts to review for this project
 
@@ -23,7 +33,7 @@
 
 ### Screenshot
 
-![Design preview for form a story](/projects/01-HTML-CSS/03-form/Form-a-Story.png)
+![Design preview for form a story](./Form-a-Story.png)
 
 ### The challenge
 
@@ -33,7 +43,7 @@ The logic for parsing and inserting of user inputs is already taken care of in `
 
 ### Links
 
-- Live Site URL: [Form A Story](https://journey-code-form.vercel.app/index.html)
+- Live Site URL: [Form A Story](https://code-journey-html-form.vercel.app/)
 
 ## My process
 
