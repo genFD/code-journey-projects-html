@@ -12,7 +12,8 @@
 - [📕 What I learned](#what-i-learned)
 - [⏭️ Continued development](#continued-development)
 - [📚 Useful resources](#useful-resources)
-- [Try It](#useful-resources)
+- [Project completed](/Projects/01-HTML-CSS/01-html/01-wine-festival-schedule/completed/)
+- [Project starter](/Projects/01-HTML-CSS/01-html/01-wine-festival-schedule/starter/)
 
 ## Concepts to review for this project
 
